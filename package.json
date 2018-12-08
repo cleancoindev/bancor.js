@@ -1,0 +1,16 @@
+{
+  "name": "bancor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bancor.js",
+  "scripts": {
+    "start": "fibjs index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "asciitable": "0.0.1",
+    "bignumber.js": "^7.2.1"
+  }
+}
