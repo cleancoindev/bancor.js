@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "asciitable": "0.0.1",
+    "asciitable": "0.0.7",
     "bignumber.js": "^7.2.1"
   }
 }
